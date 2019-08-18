@@ -1,0 +1,97 @@
+@media only screen and (max-width:770px) {
+    header {
+        margin-bottom: 7rem;
+    }
+    #middle1 {
+        margin-bottom: 10rem;
+    }
+    #middle2 {
+        margin-bottom: 40rem;
+    }
+    header ul {
+        margin-top: -15%;
+    }
+    .heading {
+        font-size: 1.6rem;
+    }
+    .a1 {
+        top: 50%;
+    }
+    .a2 {
+        top: 50%;
+        left: 40%;
+    }
+    #middle1 .temp {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+    section1 {
+        display: inline;
+        text-align: center;
+    }
+    div {
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-bottom: 2rem;
+    }
+    i {
+        margin-left: 1rem;
+    }
+    #middle2 .phone {
+        margin-left: 260px;
+    }
+    a img {
+        margin-left: 5rem;
+    }
+    .subheading {
+        font-size: 30px;
+    }
+    section3 {
+        display: inline;
+    }
+    #middle3 part1 {
+        display: inline-block;
+        margin-left: 2rem;
+    }
+    #middle4 div {
+        display: inline;
+    }
+    #middle4 part1 p {
+        text-align: center;
+        margin: 1rem;
+    }
+    #middle4 divt {
+        justify-content: center;
+    }
+    #middle4 part1 h1 {
+        margin-bottom: -2rem;
+    }
+    #middle5 part {
+        display: grid;
+    }
+    #middle5 part5 {
+        margin-left: 12rem;
+        margin-bottom: 2rem;
+        width: 17rem;
+        text-align: center;
+    }
+    #middle5 part51 {
+        margin-left: 12rem;
+        margin-bottom: 2rem;
+        width: 17rem;
+        text-align: center;
+    }
+    #middle6 .entry {
+        margin-left: 3rem;
+    }
+    footer #a #a1 {
+        margin-left: 7.5rem;
+    }
+    footer #a {
+        margin: 0rem;
+    }
+    footer #a h3 {
+        margin: 1rem;
+        margin-top: 3rem;
+    }
+}
